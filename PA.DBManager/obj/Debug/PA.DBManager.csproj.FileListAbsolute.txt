@@ -1,0 +1,11 @@
+D:\Works\Git\DB\PA.DBManager\bin\Debug\PA.DBManager.dll
+D:\Works\Git\DB\PA.DBManager\bin\Debug\PA.DBManager.pdb
+D:\Works\Git\DB\PA.DBManager\bin\Debug\PA.DataEntity.dll
+D:\Works\Git\DB\PA.DBManager\bin\Debug\PA.DataEntity.pdb
+D:\Works\Git\DB\PA.DBManager\obj\Debug\PA.DBManager.csproj.AssemblyReference.cache
+D:\Works\Git\DB\PA.DBManager\obj\Debug\PA.DBManager.Properties.Resources.resources
+D:\Works\Git\DB\PA.DBManager\obj\Debug\PA.DBManager.csproj.GenerateResource.cache
+D:\Works\Git\DB\PA.DBManager\obj\Debug\PA.DBManager.csproj.CoreCompileInputs.cache
+D:\Works\Git\DB\PA.DBManager\obj\Debug\PA.DBManager.csproj.CopyComplete
+D:\Works\Git\DB\PA.DBManager\obj\Debug\PA.DBManager.dll
+D:\Works\Git\DB\PA.DBManager\obj\Debug\PA.DBManager.pdb
