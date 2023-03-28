@@ -1,0 +1,8 @@
+D:\Works\Git\DB\PA.DataEntity\bin\Release\PA.DataEntity.dll
+D:\Works\Git\DB\PA.DataEntity\bin\Release\PA.DataEntity.pdb
+D:\Works\Git\DB\PA.DataEntity\obj\x86\Release\PA.DataEntity.csproj.AssemblyReference.cache
+D:\Works\Git\DB\PA.DataEntity\obj\x86\Release\PA.DataEntity.Properties.Resources.resources
+D:\Works\Git\DB\PA.DataEntity\obj\x86\Release\PA.DataEntity.csproj.GenerateResource.cache
+D:\Works\Git\DB\PA.DataEntity\obj\x86\Release\PA.DataEntity.csproj.CoreCompileInputs.cache
+D:\Works\Git\DB\PA.DataEntity\obj\x86\Release\PA.DataEntity.dll
+D:\Works\Git\DB\PA.DataEntity\obj\x86\Release\PA.DataEntity.pdb
